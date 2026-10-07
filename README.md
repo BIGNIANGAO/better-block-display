@@ -11,7 +11,7 @@
 ## 安装
 
 1. 订阅并启用 ModTheSpire、BaseMod。
-2. 从 [GitHub Releases](https://github.com/BIGNIANGAO/better-block-display/releases) 下载「更好的格挡显示.jar」，或自行构建生成 dist/更好的格挡显示.jar，然后复制到 `<game-directory>\mods`。更新时移走旧 BlockReminderReborn.jar，避免同一模组加载两份。
+2. 从 [GitHub Releases](https://github.com/BIGNIANGAO/better-block-display/releases) 下载 `better-block-display-<version>.jar`，或自行构建生成 dist/更好的格挡显示.jar，然后复制到 `<game-directory>\mods`。更新时移走旧版本 JAR 和旧 BlockReminderReborn.jar，避免同一模组加载两份。
 3. 在 ModTheSpire 中启用「更好的格挡显示」，停用旧 Block Reminder，然后启动游戏。
 4. 主菜单 Mods 设置依次为「启用」「计入虚无牌消耗与无惧疼痛」「始终显示」。第二项计入虚无牌在回合末消耗时触发无惧疼痛的格挡；第三项用于预估为零时仍显示护盾。护盾固定显示预计总量，旧「显示总量」配置保留兼容但不再影响显示。
 
