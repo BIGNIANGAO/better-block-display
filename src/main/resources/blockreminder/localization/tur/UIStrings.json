@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Daha İyi Blok Gösterimi",
+      "Tur Sonu Blok",
+      "Etkinleştir",
+      "Toplamı göster",
+      "Ruhani / Acı Yok etkilerini say",
+      "Her zaman göster",
+      "Kaynakları görmek için tahminin üzerine gel.",
+      "Mevcut Blok yerine tur sonundaki Blok değerini gösterir.",
+      "Mevcut Blok",
+      "Son Blok",
+      "Kısmi tahmin",
+      "Bir tahmin hatası giderildi. Oyun günlüğüne bak.",
+      "Devre dışı: Ruhani / Acı Yok",
+      "Kaynaklar",
+      "Blok değişmedi",
+      "%d kaynak daha",
+      "Bazı ek etkiler hesaba katılmadı.",
+      "Hesaba katılmadı: %s",
+      "Can kaybı ek etkileri tetikleyebilir.",
+      "Ek Blok kuralları henüz desteklenmiyor.",
+      "Bir uzantı geçici olarak kullanılamıyor.",
+      "Unstable Molecules sayacı kullanılamıyor.",
+      "Karakterin ek tur sonu kuralları desteklenmiyor.",
+      "%d bildirim daha"
+    ]
+  }
+}

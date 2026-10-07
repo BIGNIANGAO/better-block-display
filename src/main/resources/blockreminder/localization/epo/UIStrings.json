@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Pli bona ŝirmomontrado",
+      "Ŝirmo je turnofino",
+      "Ŝalti",
+      "Montri totalon",
+      "Inkluzivi Fantoma / Doloro ne doloras",
+      "Ĉiam montri",
+      "Ŝvebigu la muson super la prognozo por vidi la fontojn.",
+      "Montras la ŝirmon je turnofino anstataŭ la nuna valoro.",
+      "Nuna ŝirmo",
+      "Fina ŝirmo",
+      "Parta prognozo",
+      "Prognoza eraro estis kaptita. Vidu la ludprotokolon.",
+      "Malŝaltita: Fantoma / Doloro ne doloras",
+      "Fontoj",
+      "Ŝirmo senŝanĝa",
+      "%d pliaj fontoj",
+      "Iuj aldonaj efikoj ne estas kalkulitaj.",
+      "Ne kalkulita: %s",
+      "Perdo de vivpoentoj povas aktivigi aldonajn efikojn.",
+      "Aldonaj ŝirmoreguloj ankoraŭ ne estas subtenataj.",
+      "Etendaĵo estas provizore nedisponebla.",
+      "La nombrilo de Unstable Molecules estas nedisponebla.",
+      "Aldonaj turnofinaj reguloj de la rolulo ne estas subtenataj.",
+      "%d pliaj sciigoj"
+    ]
+  }
+}

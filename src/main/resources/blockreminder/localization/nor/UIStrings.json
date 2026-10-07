@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Bedre visning av skadeblokkering",
+      "Skadeblokkering ved turens slutt",
+      "Aktiver",
+      "Vis total",
+      "Ta med Eterisk / Høy smerteterskel",
+      "Vis alltid",
+      "Hold pekeren over prognosen for å se kildene.",
+      "Viser skadeblokkering ved turens slutt i stedet for nåværende verdi.",
+      "Nåværende skadeblokkering",
+      "Endelig skadeblokkering",
+      "Delvis prognose",
+      "En prognosefeil ble håndtert. Se spilloggen.",
+      "Deaktivert: Eterisk / Høy smerteterskel",
+      "Kilder",
+      "Skadeblokkering uendret",
+      "%d flere kilder",
+      "Noen ekstra effekter er ikke medregnet.",
+      "Ikke medregnet: %s",
+      "Tap av HP kan utløse ekstra effekter.",
+      "Ekstra regler for skadeblokkering støttes ikke ennå.",
+      "En utvidelse er midlertidig utilgjengelig.",
+      "Telleren for Unstable Molecules er utilgjengelig.",
+      "Figurens ekstra regler ved turens slutt støttes ikke.",
+      "%d flere meldinger"
+    ]
+  }
+}

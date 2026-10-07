@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Meilleur affichage de l'armure",
+      "Armure en fin de tour",
+      "Activer",
+      "Afficher le total",
+      "Inclure Éthérée / Ignore la douleur",
+      "Toujours afficher",
+      "Survolez la prévision pour voir ses sources.",
+      "Affiche l'armure en fin de tour plutôt que l'armure actuelle.",
+      "Armure actuelle",
+      "Armure finale",
+      "Prévision partielle",
+      "Une erreur de prévision a été isolée. Consultez le journal du jeu.",
+      "Désactivé : Éthérée / Ignore la douleur",
+      "Sources",
+      "Armure inchangée",
+      "%d sources supplémentaires",
+      "Certains effets supplémentaires ne sont pas inclus.",
+      "Non inclus : %s",
+      "La perte de PV peut déclencher d'autres effets.",
+      "Les règles d'armure supplémentaires ne sont pas encore prises en charge.",
+      "Une extension est temporairement indisponible.",
+      "Le compteur d'Unstable Molecules est indisponible.",
+      "Les règles de fin de tour supplémentaires du personnage ne sont pas prises en charge.",
+      "%d avertissements supplémentaires"
+    ]
+  }
+}

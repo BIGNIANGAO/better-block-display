@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Lepsze wyświetlanie bloku",
+      "Blok na koniec tury",
+      "Włącz",
+      "Pokaż sumę",
+      "Uwzględnij Eteryczność / Niewrażliwość na ból",
+      "Zawsze pokazuj",
+      "Najedź na przewidywaną wartość, aby zobaczyć źródła.",
+      "Wyświetla blok na koniec tury zamiast obecnej wartości.",
+      "Obecny blok",
+      "Końcowy blok",
+      "Częściowa prognoza",
+      "Błąd prognozy został obsłużony. Sprawdź dziennik gry.",
+      "Wyłączone: Eteryczność / Niewrażliwość na ból",
+      "Źródła",
+      "Blok bez zmian",
+      "%d dodatkowych źródeł",
+      "Niektóre dodatkowe efekty nie są uwzględnione.",
+      "Nie uwzględniono: %s",
+      "Utrata PŻ może wywołać dodatkowe efekty.",
+      "Dodatkowe zasady bloku nie są jeszcze obsługiwane.",
+      "Rozszerzenie jest chwilowo niedostępne.",
+      "Licznik Unstable Molecules jest niedostępny.",
+      "Dodatkowe zasady końca tury postaci nie są obsługiwane.",
+      "%d dodatkowych uwag"
+    ]
+  }
+}

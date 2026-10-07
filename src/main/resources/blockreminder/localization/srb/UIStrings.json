@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Bolji prikaz odbrane",
+      "Odbrana na kraju poteza",
+      "Uključi",
+      "Prikaži ukupno",
+      "Uračunaj Prolazna / Bezstradalan",
+      "Uvek prikazuj",
+      "Pređi mišem preko prognoze da vidiš izvore.",
+      "Prikazuje odbranu na kraju poteza umesto trenutne vrednosti.",
+      "Trenutna odbrana",
+      "Konačna odbrana",
+      "Delimična prognoza",
+      "Greška prognoze je obrađena. Pogledaj dnevnik igre.",
+      "Isključeno: Prolazna / Bezstradalan",
+      "Izvori",
+      "Odbrana bez promene",
+      "Još %d izvora",
+      "Neki dodatni efekti nisu uračunati.",
+      "Nije uračunato: %s",
+      "Gubitak zdravlja može pokrenuti dodatne efekte.",
+      "Dodatna pravila odbrane još nisu podržana.",
+      "Proširenje je privremeno nedostupno.",
+      "Brojač za Unstable Molecules nije dostupan.",
+      "Dodatna pravila kraja poteza lika nisu podržana.",
+      "Još %d napomena"
+    ]
+  }
+}

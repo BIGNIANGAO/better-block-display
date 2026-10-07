@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Tampilan Blok Lebih Baik",
+      "Blok akhir giliran",
+      "Aktifkan",
+      "Tampilkan total",
+      "Hitung Ethereal / Tidak Merasa Sakit",
+      "Selalu tampilkan",
+      "Arahkan kursor ke perkiraan untuk melihat sumbernya.",
+      "Menampilkan Blok akhir giliran alih-alih Blok saat ini.",
+      "Blok saat ini",
+      "Blok akhir",
+      "Perkiraan sebagian",
+      "Kesalahan perkiraan telah ditangani. Lihat log permainan.",
+      "Dinonaktifkan: Ethereal / Tidak Merasa Sakit",
+      "Sumber",
+      "Blok tidak berubah",
+      "%d sumber lainnya",
+      "Beberapa efek tambahan belum dihitung.",
+      "Belum dihitung: %s",
+      "Kehilangan HP dapat memicu efek tambahan.",
+      "Aturan Blok tambahan belum didukung.",
+      "Ekstensi untuk sementara tidak tersedia.",
+      "Penghitung Unstable Molecules tidak tersedia.",
+      "Aturan akhir giliran tambahan karakter belum didukung.",
+      "%d pemberitahuan lainnya"
+    ]
+  }
+}

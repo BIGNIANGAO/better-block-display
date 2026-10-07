@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Mejor visualización del bloqueo",
+      "Bloqueo al final del turno",
+      "Activar",
+      "Mostrar total",
+      "Incluir Etérea / No Hay Dolor",
+      "Mostrar siempre",
+      "Pasa el cursor sobre la previsión para ver sus fuentes.",
+      "Muestra el bloqueo al final del turno en lugar del bloqueo actual.",
+      "Bloqueo actual",
+      "Bloqueo final",
+      "Previsión parcial",
+      "Se ha controlado un error de previsión. Consulta el registro del juego.",
+      "Desactivado: Etérea / No Hay Dolor",
+      "Fuentes",
+      "Bloqueo sin cambios",
+      "%d fuentes más",
+      "Algunos efectos adicionales no se han incluido.",
+      "No incluido: %s",
+      "Perder PV puede activar efectos adicionales.",
+      "Las reglas adicionales de bloqueo aún no son compatibles.",
+      "Una extensión no está disponible temporalmente.",
+      "El contador de Unstable Molecules no está disponible.",
+      "Las reglas adicionales de fin de turno del personaje no son compatibles.",
+      "%d avisos más"
+    ]
+  }
+}

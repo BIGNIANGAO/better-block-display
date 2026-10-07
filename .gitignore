@@ -1,0 +1,7 @@
+/build/
+/.tools/
+/dist/
+/local.properties
+*.log
+.idea/
+.vscode/

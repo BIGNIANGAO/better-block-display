@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Exibição de Proteção melhorada",
+      "Proteção no fim do turno",
+      "Ativar",
+      "Mostrar total",
+      "Incluir Etéreo / Não Sinta Dor",
+      "Sempre mostrar",
+      "Passe o mouse sobre a previsão para ver as fontes.",
+      "Exibe a Proteção no fim do turno em vez da Proteção atual.",
+      "Proteção atual",
+      "Proteção final",
+      "Previsão parcial",
+      "Um erro na previsão foi contido. Veja o registro do jogo.",
+      "Desativado: Etéreo / Não Sinta Dor",
+      "Fontes",
+      "Proteção sem alteração",
+      "Mais %d fontes",
+      "Alguns efeitos adicionais não foram incluídos.",
+      "Não incluído: %s",
+      "Perder PV pode ativar efeitos adicionais.",
+      "Regras adicionais de Proteção ainda não são suportadas.",
+      "Uma extensão está temporariamente indisponível.",
+      "O contador de Unstable Molecules está indisponível.",
+      "Regras adicionais de fim de turno do personagem não são suportadas.",
+      "Mais %d avisos"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Better Block Display",
+      "End-turn Block",
+      "Enable",
+      "Show Total",
+      "Include Ethereal / Feel No Pain",
+      "Always Show",
+      "Hover over the forecast for its sources.",
+      "Displays end-of-turn Block instead of current Block.",
+      "Current Block",
+      "Final Block",
+      "Partial forecast",
+      "A preview error was isolated. See the game log.",
+      "Disabled by config: Ethereal / Feel No Pain",
+      "Sources",
+      "Block unchanged",
+      "%d more sources",
+      "Some additional effects are not included.",
+      "Not included: %s",
+      "HP loss may trigger additional effects.",
+      "Additional Block modifiers are not modeled.",
+      "An extension is temporarily unavailable.",
+      "The Unstable Molecules counter is unavailable.",
+      "Additional character end-turn rules are not modeled.",
+      "%d more notices"
+    ]
+  }
+}

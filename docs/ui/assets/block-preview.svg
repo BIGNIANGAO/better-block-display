@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-labelledby="icon-title">
+  <title id="icon-title">回合末格挡预估</title>
+  <polygon points="16,3 26,7 25,19 21,25 16,29 11,25 7,19 6,7" fill="#284957" stroke="#9cb7c0" stroke-width="2" stroke-linejoin="round" />
+  <polyline points="13,12 18,16 13,20" fill="none" stroke="#e7eadc" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

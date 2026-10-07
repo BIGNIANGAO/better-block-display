@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Visualizzazione del Blocco migliorata",
+      "Blocco a fine turno",
+      "Attiva",
+      "Mostra il totale",
+      "Includi Eterea / Nessun Dolore",
+      "Mostra sempre",
+      "Passa il mouse sulla previsione per vedere le fonti.",
+      "Mostra il Blocco a fine turno invece del Blocco attuale.",
+      "Blocco attuale",
+      "Blocco finale",
+      "Previsione parziale",
+      "Un errore della previsione è stato isolato. Vedi il registro del gioco.",
+      "Disattivato: Eterea / Nessun Dolore",
+      "Fonti",
+      "Blocco invariato",
+      "Altre %d fonti",
+      "Alcuni effetti aggiuntivi non sono inclusi.",
+      "Non incluso: %s",
+      "La perdita di PV può attivare altri effetti.",
+      "Le regole aggiuntive del Blocco non sono ancora supportate.",
+      "Un'estensione non è temporaneamente disponibile.",
+      "Il contatore di Unstable Molecules non è disponibile.",
+      "Le regole aggiuntive di fine turno del personaggio non sono supportate.",
+      "Altri %d avvisi"
+    ]
+  }
+}

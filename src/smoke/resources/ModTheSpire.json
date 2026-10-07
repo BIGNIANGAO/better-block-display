@@ -1,0 +1,9 @@
+{
+  "modid": "block-reminder-smoke",
+  "name": "Block Reminder isolated smoke harness",
+  "author_list": ["芝士龙"],
+  "version": "1.0.0",
+  "mts_version": "3.30.3",
+  "dependencies": ["basemod", "block-reminder-reborn"],
+  "description": "Test only. Isolated preferences and offline publisher. Never install in a normal game."
+}

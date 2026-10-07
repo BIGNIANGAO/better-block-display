@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Parempi suojan näyttö",
+      "Suoja vuoron lopussa",
+      "Käytössä",
+      "Näytä kokonaismäärä",
+      "Laske Eteerinen / Ei tunnu missään",
+      "Näytä aina",
+      "Vie hiiri ennusteen päälle nähdäksesi lähteet.",
+      "Näyttää vuoron lopun suojan nykyisen suojan sijaan.",
+      "Nykyinen suoja",
+      "Lopullinen suoja",
+      "Osittainen ennuste",
+      "Ennusteen virhe eristettiin. Katso pelin loki.",
+      "Pois käytöstä: Eteerinen / Ei tunnu missään",
+      "Lähteet",
+      "Suoja ei muutu",
+      "%d muuta lähdettä",
+      "Joitakin lisävaikutuksia ei ole laskettu mukaan.",
+      "Ei laskettu mukaan: %s",
+      "Elämäpisteiden menetys voi laukaista lisävaikutuksia.",
+      "Muita suojasääntöjä ei vielä tueta.",
+      "Laajennus ei ole tilapäisesti käytettävissä.",
+      "Unstable Molecules -laskuri ei ole käytettävissä.",
+      "Hahmon muita vuoron lopun sääntöjä ei tueta.",
+      "%d muuta ilmoitusta"
+    ]
+  }
+}

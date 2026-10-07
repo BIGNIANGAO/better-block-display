@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Hiển thị Giáp tốt hơn",
+      "Giáp cuối lượt",
+      "Bật",
+      "Hiện tổng",
+      "Tính Tan biến / Không Biết Đau",
+      "Luôn hiển thị",
+      "Di chuột lên dự đoán để xem nguồn.",
+      "Hiển thị Giáp cuối lượt thay cho Giáp hiện tại.",
+      "Giáp hiện tại",
+      "Giáp cuối cùng",
+      "Dự đoán một phần",
+      "Đã xử lý lỗi dự đoán. Xem nhật ký trò chơi.",
+      "Đã tắt: Tan biến / Không Biết Đau",
+      "Nguồn",
+      "Giáp không đổi",
+      "Thêm %d nguồn",
+      "Chưa tính một số hiệu ứng bổ sung.",
+      "Chưa tính: %s",
+      "Mất máu có thể kích hoạt hiệu ứng bổ sung.",
+      "Chưa hỗ trợ các quy tắc Giáp bổ sung.",
+      "Một tiện ích tạm thời không khả dụng.",
+      "Không đọc được bộ đếm Unstable Molecules.",
+      "Chưa hỗ trợ các quy tắc cuối lượt bổ sung của nhân vật.",
+      "Thêm %d lưu ý"
+    ]
+  }
+}

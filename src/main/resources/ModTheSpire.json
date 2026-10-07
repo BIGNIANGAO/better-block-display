@@ -1,0 +1,10 @@
+{
+  "modid": "block-reminder-reborn",
+  "name": "更好的格挡显示",
+  "author_list": ["芝士龙"],
+  "description": "将格挡量由实时改为回合结束后的值",
+  "version": "1.0.9",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.30.3",
+  "dependencies": ["basemod"]
+}

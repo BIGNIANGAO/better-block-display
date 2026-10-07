@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Bessere Blockanzeige",
+      "Block am Zugende",
+      "Aktivieren",
+      "Gesamtwert anzeigen",
+      "Flüchtig / Schmerzfrei einbeziehen",
+      "Immer anzeigen",
+      "Fahre über die Vorschau, um ihre Quellen zu sehen.",
+      "Zeigt den Block am Zugende statt des aktuellen Werts.",
+      "Aktueller Block",
+      "Endgültiger Block",
+      "Teilweise Vorschau",
+      "Ein Vorschaufehler wurde abgefangen. Siehe Spielprotokoll.",
+      "Deaktiviert: Flüchtig / Schmerzfrei",
+      "Quellen",
+      "Block unverändert",
+      "%d weitere Quellen",
+      "Einige zusätzliche Effekte sind nicht berücksichtigt.",
+      "Nicht berücksichtigt: %s",
+      "LP-Verlust kann zusätzliche Effekte auslösen.",
+      "Zusätzliche Blockregeln werden noch nicht unterstützt.",
+      "Eine Erweiterung ist vorübergehend nicht verfügbar.",
+      "Der Zähler von Unstable Molecules ist nicht verfügbar.",
+      "Zusätzliche Zugenderegeln des Charakters werden nicht unterstützt.",
+      "%d weitere Hinweise"
+    ]
+  }
+}

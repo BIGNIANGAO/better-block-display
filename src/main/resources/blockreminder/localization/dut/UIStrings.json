@@ -1,0 +1,30 @@
+{
+  "block-reminder-reborn:UI": {
+    "TEXT": [
+      "Betere blokweergave",
+      "Blok aan einde beurt",
+      "Inschakelen",
+      "Totaal tonen",
+      "Etherisch / Voel Geen Pijn meetellen",
+      "Altijd tonen",
+      "Houd de muis boven de voorspelling om de bronnen te zien.",
+      "Toont blok aan het einde van de beurt in plaats van huidig blok.",
+      "Huidig blok",
+      "Uiteindelijk blok",
+      "Gedeeltelijke voorspelling",
+      "Een voorbeeldfout is opgevangen. Zie het spellogboek.",
+      "Uitgeschakeld: Etherisch / Voel Geen Pijn",
+      "Bronnen",
+      "Blok ongewijzigd",
+      "Nog %d bronnen",
+      "Sommige extra effecten zijn niet meegerekend.",
+      "Niet meegerekend: %s",
+      "Verlies van HP kan extra effecten activeren.",
+      "Extra blokregels zijn nog niet ondersteund.",
+      "Een uitbreiding is tijdelijk niet beschikbaar.",
+      "De teller van Unstable Molecules is niet beschikbaar.",
+      "Extra beurt-einderegels van dit personage zijn niet ondersteund.",
+      "Nog %d meldingen"
+    ]
+  }
+}
